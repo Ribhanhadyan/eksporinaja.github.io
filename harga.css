@@ -1,0 +1,369 @@
+/*
+	@name harga
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1200px; width: 1200px; height: 800px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+a{
+color:#22b3a4;
+text-decoration : none;
+}
+
+#_bg__harga {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 800px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 272px;
+	left: 30px;
+	width: 309px;
+	height: 429px;
+}
+
+
+#rectangle_2 {
+	top: 272px;
+	left: 30.5px;
+	width: 309px;
+	height: 84px;
+}
+
+
+#free {
+	top: 305px;
+	left: 24.5px;
+	width: 326px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 17px;
+	padding-top: 23px;
+	margin-top: -23px;
+	letter-spacing: 1.5px;
+	color:#FFFFFF;
+}
+
+
+#price {
+	top: 171px;
+	left: 441px;
+	width: 336px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 17px;
+	padding-top: 43px;
+	margin-top: -43px;
+	letter-spacing: 1.5px;
+	color:#000000;
+}
+
+
+#rectangle_3 {
+	top: 272px;
+	left: 449px;
+	width: 309px;
+	height: 429px;
+}
+
+
+#rectangle_4 {
+	top: 272px;
+	left: 449.5px;
+	width: 309px;
+	height: 84px;
+}
+
+
+#silver {
+	top: 305px;
+	left: 443.5px;
+	width: 326px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 17px;
+	padding-top: 23px;
+	margin-top: -23px;
+	letter-spacing: 1.5px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_5 {
+	top: 272px;
+	left: 860px;
+	width: 309px;
+	height: 429px;
+}
+
+
+#rectangle_6 {
+	top: 272px;
+	left: 860.5px;
+	width: 309px;
+	height: 84px;
+}
+
+
+#premium {
+	top: 305px;
+	left: 857.5px;
+	width: 326px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 17px;
+	padding-top: 23px;
+	margin-top: -23px;
+	letter-spacing: 1.5px;
+	color:#FFFFFF;
+}
+
+
+#artikel_jawara_video_pembelajaran_akses_database_negara {
+	top: 507px;
+	left: 496px;
+	width: 224px;
+	height: 70.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: center;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#artikel_jawara_video_pembelajaran_akses_database_negara_layanan_konsultasi_ekslusif {
+	top: 507px;
+	left: 907px;
+	width: 228px;
+	height: 90.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: center;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#rectangle {
+	top: 32px;
+	left: 868px;
+	width: 90px;
+	height: 40px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(38,70,83,1);
+}
+
+
+#rectangle_ek1 {
+	top: 32px;
+	left: 978px;
+	width: 104px;
+	height: 44px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 2px solid #264653;
+	background:rgba(253,253,253,1);
+}
+
+
+#sign_in {
+	top: 42px;
+	left: 888px;
+	width: 71px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#sign_up {
+	top: 42px;
+	left: 1000px;
+	width: 77px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#home {
+	top: 42px;
+	left: 115px;
+	width: 63.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#artikel_jawara {
+	top: 511px;
+	left: 122px;
+	width: 124.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#rp__0 {
+	top: 404px;
+	left: 132px;
+	width: 173px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: left;
+	line-height: 20px;
+	padding-top: 20px;
+	margin-top: -20px;
+	color:#FFFFFF;
+}
+
+
+#rp__150_k {
+	top: 404px;
+	left: 517px;
+	width: 262px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: left;
+	line-height: 20px;
+	padding-top: 20px;
+	margin-top: -20px;
+	color:#FFFFFF;
+}
+
+
+#rp__300_k {
+	top: 404px;
+	left: 925px;
+	width: 262px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: left;
+	line-height: 20px;
+	padding-top: 20px;
+	margin-top: -20px;
+	color:#FFFFFF;
+}
+
+
+#layanan_kami {
+	top: 42px;
+	left: 198px;
+	width: 136px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#22B3A4;
+}
+
+
+#daftar_negara_potensial {
+	top: 42px;
+	left: 350px;
+	width: 195px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#about {
+	top: 42px;
+	left: 577px;
+	width: 73px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#logo_1 {
+	top: 28px;
+	left: 35px;
+	width: 39px;
+	height: 48px;
+}
+
+
+#group_9 {
+	top: 34px;
+	left: 805px;
+	width: 42.5px;
+	height: 35.5px;
+}
+
+
+
+/* Add your custom CSS here */

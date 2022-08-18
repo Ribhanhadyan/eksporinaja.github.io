@@ -1,0 +1,437 @@
+/*
+	@name daftar_negara_potensial
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1200px; width: 1200px; height: 1425px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+a{
+color:#22b3a4;
+text-decoration : none;
+}
+
+#_bg__daftar_negara_potensial {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 1425px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle {
+	top: 18px;
+	left: 909px;
+	width: 90px;
+	height: 40px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(38,70,83,1);
+}
+
+
+#rectangle_ek1 {
+	top: 18px;
+	left: 1019px;
+	width: 104px;
+	height: 44px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 2px solid #264653;
+	background:rgba(253,253,253,1);
+}
+
+
+#sign_in {
+	top: 28px;
+	left: 929px;
+	width: 71px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#sign_up {
+	top: 28px;
+	left: 1041px;
+	width: 77px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#kelas {
+	top: 301px;
+	left: 119px;
+	width: 266px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	line-height: 17px;
+	padding-top: 7px;
+	margin-top: -7px;
+	letter-spacing: 1.5px;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 28px;
+	left: 156px;
+	width: 63.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#layanan_kami {
+	top: 28px;
+	left: 239px;
+	width: 136px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#daftar_negara_potensial {
+	top: 28px;
+	left: 391px;
+	width: 195px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#22B3A4;
+}
+
+
+#about {
+	top: 28px;
+	left: 618px;
+	width: 73px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#logo_1 {
+	top: 14px;
+	left: 76px;
+	width: 39px;
+	height: 48px;
+}
+
+
+#daftar_negara_potensial_ek1 {
+	top: 166px;
+	left: 284px;
+	width: 751px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	padding-top: 28px;
+	margin-top: -28px;
+	color:#326073;
+}
+
+#group_8 {
+	top: 1164px;
+	left: 279px;
+	width: 715px;
+	height: 182px;
+}
+
+#metode_pembayaran {
+	top: 0px;
+	left: 0px;
+	width: 266.5px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 21px;
+	text-align: left;
+	color:#16363A;
+}
+
+
+#mandiri {
+	top: 41px;
+	left: 0px;
+	width: 182.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#gopay {
+	top: 68px;
+	left: 0px;
+	width: 195.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#ovo {
+	top: 95px;
+	left: 0px;
+	width: 161.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#ikuti_kami {
+	top: 0px;
+	left: 466px;
+	width: 175.5px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 21px;
+	text-align: left;
+	color:#16363A;
+}
+
+
+#tentang_eksporinaja_id {
+	top: 41px;
+	left: 466px;
+	width: 271.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#___2022_all_rights_reserved_ {
+	top: 170px;
+	left: 254px;
+	width: 181px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: center;
+	color:#16363A;
+}
+
+
+#rectangle_ek2 {
+	top: 246px;
+	left: 486px;
+	width: 400px;
+	height: 34px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #cccccc;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_ek3 {
+	top: 316px;
+	left: 486px;
+	width: 400px;
+	height: 34px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #cccccc;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_ek4 {
+	top: 389px;
+	left: 315px;
+	width: 571px;
+	height: 48px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#cari_negara__ {
+	top: 254px;
+	left: 315px;
+	width: 189px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#333333;
+}
+
+
+#cari_produk__ {
+	top: 324px;
+	left: 315px;
+	width: 189px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#333333;
+}
+
+
+#hasil_filter___china {
+	top: 404px;
+	left: 320px;
+	width: 577px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#333333;
+}
+
+
+#china {
+	top: 254px;
+	left: 500px;
+	width: 577px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#333333;
+}
+
+
+#rectangle_ek5 {
+	top: 318px;
+	left: 919px;
+	width: 71px;
+	height: 30px;
+	border: 1px solid #dddddd;
+	background:rgba(238,238,238,1);
+}
+
+
+#cari {
+	top: 322px;
+	left: 902px;
+	width: 111px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: center;
+	line-height: 19.200000762939px;
+	margin-top: -2.4000002543132px;
+	height: 40px;
+	color:#333333;
+}
+
+
+#group_10 {
+	top: 20px;
+	left: 841px;
+	width: 42.5px;
+	height: 35.5px;
+}
+
+
+#group_14_1 {
+	top: 517px;
+	left: 166px;
+	width: 399px;
+	height: 152px;
+}
+
+
+#group_15_1 {
+	top: 517px;
+	left: 627px;
+	width: 399px;
+	height: 152px;
+}
+
+
+#group_16_1 {
+	top: 703px;
+	left: 404px;
+	width: 466px;
+	height: 427px;
+}
+
+
+
+/* Add your custom CSS here */

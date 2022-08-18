@@ -1,0 +1,489 @@
+/*
+	@name layanan_kami
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1200px; width: 1200px; height: 1812px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+a{
+color:#22b3a4;
+text-decoration : none;
+}
+
+#_bg__layanan_kami {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 1812px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle {
+	top: 18px;
+	left: 909px;
+	width: 90px;
+	height: 40px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(38,70,83,1);
+}
+
+
+#rectangle_ek1 {
+	top: 18px;
+	left: 1019px;
+	width: 104px;
+	height: 44px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 2px solid #264653;
+	background:rgba(253,253,253,1);
+}
+
+
+#sign_in {
+	top: 28px;
+	left: 929px;
+	width: 71px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#sign_up {
+	top: 28px;
+	left: 1041px;
+	width: 77px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#fitur_yang_berisi_course___webinar_seputar_ekspor_yang_dibimbing_oleh_para_mentor_yang_sudah_berpengalaman_dibidang_ekspor_dengan_materi_dari_basic_hingga_advance {
+	top: 360px;
+	left: 473px;
+	width: 410px;
+	height: 107.5px;
+	overflow: hidden;
+	font-family: Roboto Slab;
+	font-size: 17px;
+	text-align: center;
+	line-height: 23.799999237061px;
+	color:#264653;
+}
+
+
+#edukasi {
+	top: 631px;
+	left: 68px;
+	width: 327px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 17px;
+	padding-top: 33px;
+	margin-top: -33px;
+	letter-spacing: 1.5px;
+	color:#264653;
+}
+
+
+#konsultasi {
+	top: 1278px;
+	left: 758px;
+	width: 428px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 17px;
+	padding-top: 33px;
+	margin-top: -33px;
+	letter-spacing: 1.5px;
+	color:#264653;
+}
+
+
+#fitur_ini_berisi_artikel_atau_berita_terkini_terkait_metode_ekspor_impor_sebagai_sarana_pencerdasan_pengguna_supaya_lebih_mudah_mengakses_informasi_pasar_global {
+	top: 550.5px;
+	left: 736px;
+	width: 337px;
+	height: 154.5px;
+	overflow: hidden;
+	font-family: Roboto Slab;
+	font-size: 17px;
+	text-align: center;
+	line-height: 23.799999237061px;
+	color:#264653;
+}
+
+
+#fitur_yang_berisi_konsultasi_terkait_peradministrasian_dalam_bisnis_ekspor__seperti_pembuatan_badan_usaha__legalitas__sertifikasi_produk_dan_lain_lain_ {
+	top: 987px;
+	left: 254px;
+	width: 463px;
+	height: 83.5px;
+	overflow: hidden;
+	font-family: Roboto Slab;
+	font-size: 17px;
+	text-align: center;
+	line-height: 23.799999237061px;
+	color:#264653;
+}
+
+
+#fitur_yang_berisi_konsultasi_terkait_peradministrasian_dalam_bisnis_ekspor__seperti_pembuatan_badan_usaha__legalitas__sertifikasi_produk_dan_lain_lain__ek1 {
+	top: 1347px;
+	left: 254px;
+	width: 463px;
+	height: 83.5px;
+	overflow: hidden;
+	font-family: Roboto Slab;
+	font-size: 17px;
+	text-align: center;
+	line-height: 23.799999237061px;
+	color:#264653;
+}
+
+
+#fitur_yang_berisi_konsultasi_terkait_rekomendasi_logistik_terbaik_dalam_mengirim_produk_baik_dari_segi_biaya__packing__serta_perizinannya {
+	top: 1150px;
+	left: 58px;
+	width: 337px;
+	height: 107.5px;
+	overflow: hidden;
+	font-family: Roboto Slab;
+	font-size: 17px;
+	text-align: center;
+	line-height: 23.799999237061px;
+	color:#264653;
+}
+
+
+#home {
+	top: 28px;
+	left: 156px;
+	width: 63.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#layanan_kami {
+	top: 28px;
+	left: 239px;
+	width: 136px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#22B3A4;
+}
+
+
+#daftar_negara_potensial {
+	top: 28px;
+	left: 391px;
+	width: 195px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#about {
+	top: 28px;
+	left: 618px;
+	width: 73px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#logo_1 {
+	top: 14px;
+	left: 76px;
+	width: 39px;
+	height: 48px;
+}
+
+
+#layanan_kami_ek1 {
+	top: 164px;
+	left: 406px;
+	width: 487px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	padding-top: 28px;
+	margin-top: -28px;
+	color:#264653;
+}
+
+
+#rectangle_ek2 {
+	top: 748px;
+	left: -30px;
+	width: 1249px;
+	height: 39px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(236,238,239,1);
+}
+
+
+#group_10 {
+	top: 20px;
+	left: 851px;
+	width: 42.5px;
+	height: 35.5px;
+}
+
+#group_8 {
+	top: 1516px;
+	left: 310px;
+	width: 715px;
+	height: 182px;
+}
+
+#metode_pembayaran {
+	top: 0px;
+	left: 0px;
+	width: 266.5px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 21px;
+	text-align: left;
+	color:#16363A;
+}
+
+
+#mandiri {
+	top: 41px;
+	left: 0px;
+	width: 182.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#gopay {
+	top: 68px;
+	left: 0px;
+	width: 195.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#ovo {
+	top: 95px;
+	left: 0px;
+	width: 161.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#ikuti_kami {
+	top: 0px;
+	left: 466px;
+	width: 175.5px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 21px;
+	text-align: left;
+	color:#16363A;
+}
+
+
+#tentang_eksporinaja__id {
+	top: 41px;
+	left: 466px;
+	width: 271.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#___2022_all_rights_reserved_ {
+	top: 170px;
+	left: 254px;
+	width: 181px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: center;
+	color:#16363A;
+}
+
+
+#study_load_1 {
+	top: 330px;
+	left: 96px;
+	width: 275px;
+	height: 277px;
+}
+
+
+#vector_4 {
+	top: 315px;
+	left: 897px;
+	width: 162px;
+	height: 142px;
+}
+
+
+#gdpr_document_1 {
+	top: 495px;
+	left: 496px;
+	width: 177px;
+	height: 177px;
+}
+
+
+#group_1_1 {
+	top: 930px;
+	left: 114px;
+	width: 121px;
+	height: 122px;
+}
+
+
+#group_2_1 {
+	top: 1094px;
+	left: 440px;
+	width: 167px;
+	height: 172px;
+}
+
+
+#group__1__1 {
+	top: 1314px;
+	left: 93px;
+	width: 141px;
+	height: 108px;
+}
+
+
+#group__2__1 {
+	top: 946px;
+	left: 825px;
+	width: 279px;
+	height: 289px;
+}
+
+
+#group_11_1 {
+	top: 1290px;
+	left: 304px;
+	width: 357px;
+	height: 49px;
+}
+
+
+#group_12_1 {
+	top: 1093px;
+	left: 57px;
+	width: 331px;
+	height: 49px;
+}
+
+
+#group_13_1 {
+	top: 930px;
+	left: 304px;
+	width: 357px;
+	height: 49px;
+}
+
+
+#group_4_1 {
+	top: 495px;
+	left: 739px;
+	width: 331px;
+	height: 49px;
+}
+
+
+#group_3_1 {
+	top: 291px;
+	left: 507px;
+	width: 331px;
+	height: 49px;
+}
+
+
+
+/* Add your custom CSS here */

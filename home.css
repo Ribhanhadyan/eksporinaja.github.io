@@ -1,0 +1,1044 @@
+/*
+	@name home
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1200px; width: 1200px; height: 2176px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+a{
+color:#22b3a4;
+text-decoration : none;
+}
+
+#_bg__home {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 2176px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle {
+	top: 18px;
+	left: 909px;
+	width: 90px;
+	height: 40px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(38,70,83,1);
+}
+
+
+#rectangle_ek1 {
+	top: 18px;
+	left: 1019px;
+	width: 104px;
+	height: 44px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 2px solid #264653;
+	background:rgba(253,253,253,1);
+}
+
+
+#rectangle_ek2 {
+	top: 454px;
+	left: 718px;
+	width: 337px;
+	height: 55px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 3px solid #264653;
+	-ms-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	background:rgba(38,70,83,1);
+}
+
+
+#rectangle_ek3 {
+	top: 683px;
+	left: 0px;
+	width: 1200px;
+	height: 304px;
+	background:rgba(38,70,83,1);
+}
+
+
+#rectangle_ek4 {
+	top: 868px;
+	left: 539px;
+	width: 126px;
+	height: 47px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 2px solid #ffffff;
+	background:rgba(255,255,255,0);
+}
+
+
+#image {
+	top: 1367px;
+	left: 451px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#home {
+	top: 28px;
+	left: 162px;
+	width: 63.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 20px;
+	color:#22B3A4;
+}
+
+
+#layanan_kami {
+	top: 28px;
+	left: 245px;
+	width: 136px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#daftar_negara_potensial {
+	top: 28px;
+	left: 397px;
+	width: 195px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#about {
+	top: 28px;
+	left: 624px;
+	width: 73px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#sign_in {
+	top: 28px;
+	left: 929px;
+	width: 71px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#sign_up {
+	top: 28px;
+	left: 1041px;
+	width: 77px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#belajar_makin_seru_bareng_eksporinaja_id {
+	top: 169px;
+	left: 618px;
+	width: 610px;
+	height: 145px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	text-align: left;
+	line-height: 58.299999237061px;
+	letter-spacing: 1.3999999761581px;
+	color:#16363A;
+}
+
+
+#eksporinaja_id_hadir_sebagai_platform_edukasi_ekspor_untuk_membantu_pelaku_umkm_dan_petani_lokal_agar_dapat_mengekspor_produknya_ke_pasar_global_ {
+	top: 302px;
+	left: 618px;
+	width: 564px;
+	height: 116px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	line-height: 34.200000762939px;
+	margin-top: -5.4000002543132px;
+	height: 134px;
+	color:#16363A;
+}
+
+
+#mulai_sekarang {
+	top: 470px;
+	left: 758px;
+	width: 266px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	line-height: 17px;
+	padding-top: 7px;
+	margin-top: -7px;
+	letter-spacing: 1.5px;
+	color:#FFFFFF;
+}
+
+
+#eksporinaja_id_menyediakan_berbagai_kebutuhan_eksportir {
+	top: 705px;
+	left: 54px;
+	width: 1108px;
+	height: 85.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 33px;
+	text-align: center;
+	line-height: 61.5px;
+	margin-top: -9.5px;
+	height: 118.5px;
+	letter-spacing: 0.10000000149012px;
+	color:#FFFFFF;
+}
+
+
+#tingkatkan_skill_kamu_agar_lebih_siap_mengjadi_eksportir_yang_hebat {
+	top: 778px;
+	left: 266px;
+	width: 682px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Roboto Slab;
+	font-size: 17px;
+	text-align: center;
+	line-height: 23.799999237061px;
+	color:#FFFFFF;
+}
+
+
+#ikuti_kelas {
+	top: 880px;
+	left: 562px;
+	width: 83px;
+	height: 25.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#kata_mereka_tentang_eksporinaja_id {
+	top: 1008px;
+	left: 161px;
+	width: 889px;
+	height: 172.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 41px;
+	text-align: center;
+	line-height: 143.5px;
+	margin-top: -34.166666666667px;
+	height: 213.5px;
+	letter-spacing: 0.10000000149012px;
+	color:#264653;
+}
+
+
+#udah_bagus_banget_sih_menurutku__kelasnya_seru_dan_membangun_motivasi__kebutuhan_materinya_sesuai_dengan_aku__setelah_ikut_kelas_essay_aku_jadi_sadar_usahaku_masih_jauh_dari_kata_bagus__semakin_semangat_buat_ngembangin_usaha_yang_aku_punya__kakanya_seru_banget_jadi_aku_kasih_bintang_5__dengan_harga_terjangkau_bisa_dapetin_ilmu_mahal___tentor_yang_pinter__kalo_ada_kelas_lain_yang_sesuai_sama_aku_sih_aku_bakalan_ikut {
+	top: 1190px;
+	left: 78px;
+	width: 1046px;
+	height: 139px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: center;
+	line-height: 31.200000762939px;
+	margin-top: -3.7333335876465px;
+	height: 159px;
+	color:#7A7A7A;
+}
+
+
+#farah_fadhilah_adzani {
+	top: 1375px;
+	left: 521px;
+	width: 162px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#7A7A7A;
+}
+
+
+#peserta_kelas_ekspor {
+	top: 1396px;
+	left: 521px;
+	width: 241px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto Slab;
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	color:#6EC1E4;
+}
+
+
+#bingung__coba_tanyain_langsung_aja {
+	top: 1598px;
+	left: 163px;
+	width: 880px;
+	height: 172.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 41px;
+	text-align: center;
+	line-height: 143.5px;
+	margin-top: -34.166666666667px;
+	height: 213.5px;
+	letter-spacing: 0.10000000149012px;
+	color:#264653;
+}
+
+
+#instagram {
+	top: -187648px;
+	left: 56px;
+	width: 32px;
+	height: 127.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 19px;
+	text-align: center;
+	color:#333333;
+}
+
+
+#linkedin {
+	top: -187657.5px;
+	left: 99px;
+	width: 26px;
+	height: 165.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 19px;
+	text-align: center;
+	color:#333333;
+}
+
+
+#whatsapp {
+	top: -187657.5px;
+	left: 142px;
+	width: 32px;
+	height: 146.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 19px;
+	text-align: center;
+	color:#333333;
+}
+
+
+#envelope {
+	top: -187657.5px;
+	left: 185px;
+	width: 26px;
+	height: 165.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 19px;
+	text-align: center;
+	color:#333333;
+}
+
+#group_8 {
+	top: 1971px;
+	left: 266px;
+	width: 715px;
+	height: 182px;
+}
+
+#metode_pembayaran {
+	top: 0px;
+	left: 0px;
+	width: 266.5px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 21px;
+	text-align: left;
+	color:#16363A;
+}
+
+
+#mandiri {
+	top: 41px;
+	left: 0px;
+	width: 182.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#gopay {
+	top: 68px;
+	left: 0px;
+	width: 195.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#ovo {
+	top: 95px;
+	left: 0px;
+	width: 161.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#ikuti_kami {
+	top: 0px;
+	left: 466px;
+	width: 175.5px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 21px;
+	text-align: left;
+	color:#16363A;
+}
+
+
+#tentang_eksporinaja__id {
+	top: 41px;
+	left: 466px;
+	width: 271.5px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	color:#264653;
+}
+
+
+#___2022_all_rights_reserved_ {
+	top: 170px;
+	left: 224px;
+	width: 181px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: center;
+	color:#16363A;
+}
+
+
+#logo_1 {
+	top: 14px;
+	left: 82px;
+	width: 39px;
+	height: 48px;
+}
+
+#group_6 {
+	top: 42px;
+	left: -137px;
+	width: 813px;
+	height: 592px;
+}
+
+#cityscapes_downtown {
+	top: 0px;
+	left: 0px;
+	width: 813px;
+	height: 592px;
+}
+
+#basket {
+	top: 15px;
+	left: 844px;
+	width: 45px;
+	height: 45px;
+}
+#group {
+	top: 4.92px;
+	left: 1.41px;
+	width: 42.19px;
+	height: 35.16px;
+}
+#group_ek1 {
+	top: 0px;
+	left: 13px;
+	width: 22.03px;
+	height: 14.77px;
+}
+
+#vector {
+	top: 0px;
+	left: 0px;
+	width: 22.03px;
+	height: 14.77px;
+}
+
+#group_ek2 {
+	top: 15px;
+	left: 2px;
+	width: 37.97px;
+	height: 19.69px;
+}
+
+#vector_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 37.97px;
+	height: 19.69px;
+}
+
+#group_ek3 {
+	top: 15px;
+	left: 2px;
+	width: 28.13px;
+	height: 19.69px;
+}
+
+#vector_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 28.13px;
+	height: 19.69px;
+}
+
+#group_ek4 {
+	top: 11px;
+	left: 0px;
+	width: 42.19px;
+	height: 4.22px;
+}
+
+#vector_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 42.19px;
+	height: 4.22px;
+}
+
+#group_ek5 {
+	top: 15px;
+	left: 2px;
+	width: 28.13px;
+	height: 2.81px;
+}
+
+#vector_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 28.13px;
+	height: 2.81px;
+}
+
+#group_ek6 {
+	top: 11px;
+	left: 0px;
+	width: 32.34px;
+	height: 4.22px;
+}
+
+#vector_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 32.34px;
+	height: 4.22px;
+}
+
+#group_ek7 {
+	top: 21px;
+	left: 9px;
+	width: 14.06px;
+	height: 11.25px;
+}
+#group_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 14.06px;
+	height: 4.22px;
+}
+#group_ek9 {
+	top: 0px;
+	left: 11px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#vector_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#group_ek10 {
+	top: 0px;
+	left: 6px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#vector_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#group_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#vector_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#group_ek12 {
+	top: 7px;
+	left: 0px;
+	width: 14.06px;
+	height: 4.22px;
+}
+#group_ek13 {
+	top: 0px;
+	left: 11px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#vector_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#group_ek14 {
+	top: 0px;
+	left: 6px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#vector_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#group_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#vector_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 2.81px;
+	height: 4.22px;
+}
+
+#group_ek16 {
+	top: 0px;
+	left: 8px;
+	width: 7.97px;
+	height: 14.77px;
+}
+
+#vector_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 7.97px;
+	height: 14.77px;
+}
+
+#group_ek17 {
+	top: 0px;
+	left: 17px;
+	width: 7.97px;
+	height: 14.77px;
+}
+
+#vector_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 7.97px;
+	height: 14.77px;
+}
+
+#group_ek18 {
+	top: 1729px;
+	left: 548px;
+	width: 111.55px;
+	height: 97.5px;
+}
+#group_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 62.39px;
+	height: 60px;
+}
+
+#vector_ek14 {
+	top: 1px;
+	left: 1px;
+	width: 60.5px;
+	height: 58.12px;
+}
+
+
+#vector_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 62.39px;
+	height: 60px;
+}
+
+#group_ek20 {
+	top: 0px;
+	left: 8px;
+	width: 62.39px;
+	height: 60px;
+}
+
+#vector_ek16 {
+	top: 1px;
+	left: 1px;
+	width: 60.5px;
+	height: 58.12px;
+}
+
+
+#vector_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 62.39px;
+	height: 60px;
+}
+
+#group_ek21 {
+	top: 8px;
+	left: 11px;
+	width: 1.89px;
+	height: 31.88px;
+}
+
+#vector_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 1.89px;
+	height: 31.88px;
+}
+
+#group_ek22 {
+	top: 8px;
+	left: 64px;
+	width: 1.89px;
+	height: 31.88px;
+}
+
+#vector_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 1.89px;
+	height: 31.88px;
+}
+
+#group_ek23 {
+	top: 38px;
+	left: 42px;
+	width: 62.39px;
+	height: 60px;
+}
+
+#vector_ek20 {
+	top: 1px;
+	left: 1px;
+	width: 60.5px;
+	height: 58.12px;
+}
+
+
+#vector_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 62.39px;
+	height: 60px;
+}
+
+#group_ek24 {
+	top: 38px;
+	left: 49px;
+	width: 62.39px;
+	height: 60px;
+}
+
+#vector_ek22 {
+	top: 1px;
+	left: 1px;
+	width: 60.5px;
+	height: 58.12px;
+}
+
+
+#vector_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 62.39px;
+	height: 60px;
+}
+
+#group_ek25 {
+	top: 45px;
+	left: 53px;
+	width: 1.89px;
+	height: 31.87px;
+}
+
+#vector_ek24 {
+	top: 0px;
+	left: 0px;
+	width: 1.89px;
+	height: 31.87px;
+}
+
+#group_ek26 {
+	top: 45px;
+	left: 106px;
+	width: 1.89px;
+	height: 31.87px;
+}
+
+#vector_ek25 {
+	top: 0px;
+	left: 0px;
+	width: 1.89px;
+	height: 31.87px;
+}
+
+#group_ek27 {
+	top: 56px;
+	left: 76px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#vector_ek26 {
+	top: 1px;
+	left: 1px;
+	width: 7.56px;
+	height: 7.5px;
+}
+
+
+#vector_ek27 {
+	top: 0px;
+	left: 0px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#group_ek28 {
+	top: 56px;
+	left: 62px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#vector_ek28 {
+	top: 1px;
+	left: 1px;
+	width: 7.56px;
+	height: 7.5px;
+}
+
+
+#vector_ek29 {
+	top: 0px;
+	left: 0px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#group_ek29 {
+	top: 56px;
+	left: 89px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#vector_ek30 {
+	top: 1px;
+	left: 1px;
+	width: 7.56px;
+	height: 7.5px;
+}
+
+
+#vector_ek31 {
+	top: 0px;
+	left: 0px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#group_ek30 {
+	top: 19px;
+	left: 34px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#vector_ek32 {
+	top: 1px;
+	left: 1px;
+	width: 7.56px;
+	height: 7.5px;
+}
+
+
+#vector_ek33 {
+	top: 0px;
+	left: 0px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#group_ek31 {
+	top: 19px;
+	left: 21px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#vector_ek34 {
+	top: 1px;
+	left: 1px;
+	width: 7.56px;
+	height: 7.5px;
+}
+
+
+#vector_ek35 {
+	top: 0px;
+	left: 0px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#group_ek32 {
+	top: 19px;
+	left: 47px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+#vector_ek36 {
+	top: 1px;
+	left: 1px;
+	width: 7.56px;
+	height: 7.5px;
+}
+
+
+#vector_ek37 {
+	top: 0px;
+	left: 0px;
+	width: 9.45px;
+	height: 9.38px;
+}
+
+
+
+/* Add your custom CSS here */

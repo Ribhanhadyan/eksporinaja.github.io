@@ -1,0 +1,209 @@
+/*
+	@name sign_in
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1200px; width: 1200px; height: 810px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+a{
+color:#22b3a4;
+text-decoration : none;
+}
+
+#_bg__sign_in {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 810px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle {
+	top: 350px;
+	left: 315px;
+	width: 570px;
+	height: 218px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_ek1 {
+	top: 390px;
+	left: 502px;
+	width: 345px;
+	height: 34px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #cccccc;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_ek2 {
+	top: 436px;
+	left: 502px;
+	width: 345px;
+	height: 34px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #cccccc;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_ek3 {
+	top: 512px;
+	left: 355px;
+	width: 492px;
+	height: 44px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #22b3a4;
+	background:rgba(50,96,115,1);
+}
+
+
+#sign_in {
+	top: 295px;
+	left: 325px;
+	width: 284px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	line-height: 32px;
+	padding-top: 28px;
+	margin-top: -28px;
+	color:#326073;
+}
+
+
+#sign_in_ek1 {
+	top: 517px;
+	left: 554px;
+	width: 254px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 32px;
+	color:#FFFFFF;
+}
+
+
+#email {
+	top: 388px;
+	left: 355px;
+	width: 61px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#333333;
+}
+
+
+#password {
+	top: 434px;
+	left: 355px;
+	width: 90.5px;
+	height: 26.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 16px;
+	color:#333333;
+}
+
+
+#remember_me {
+	top: 480px;
+	left: 376px;
+	width: 122.5px;
+	height: 26.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 16px;
+	color:#333333;
+}
+
+
+#don_t_have_account_ {
+	top: 588px;
+	left: 457px;
+	width: 160px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#326073;
+}
+
+
+#create_an_account {
+	top: 588px;
+	left: 604px;
+	width: 146px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	line-height: 24px;
+	color:#326073;
+}
+
+
+#logo_1 {
+	top: 232px;
+	left: 768px;
+	width: 77px;
+	height: 95px;
+}
+
+
+#___2022_all_rights_reserved_ {
+	top: 778px;
+	left: 513px;
+	width: 181px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 12px;
+	text-align: center;
+	color:#16363A;
+}
+
+
+
+/* Add your custom CSS here */
