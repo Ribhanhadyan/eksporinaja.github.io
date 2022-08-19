@@ -43,8 +43,8 @@ text-decoration : none;
 #rectangle_ek1 {
 	top: 18px;
 	left: 1019px;
-	width: 104px;
-	height: 44px;
+	width: 90px;
+	height: 36px;
 	-ms-border-radius: 3px;
 	-o-border-radius: 3px;
 	-moz-border-radius: 3px;
@@ -53,7 +53,6 @@ text-decoration : none;
 	border: 2px solid #264653;
 	background:rgba(253,253,253,1);
 }
-
 
 #sign_in {
 	top: 28px;

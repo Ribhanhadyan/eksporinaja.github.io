@@ -43,8 +43,8 @@ text-decoration : none;
 #rectangle_ek1 {
 	top: 18px;
 	left: 1019px;
-	width: 104px;
-	height: 44px;
+	width: 90px;
+	height: 36px;
 	-ms-border-radius: 3px;
 	-o-border-radius: 3px;
 	-moz-border-radius: 3px;
@@ -138,7 +138,7 @@ text-decoration : none;
 	font-size: 16px;
 	text-align: left;
 	line-height: 20px;
-	color:#22B3A4;
+	color:#000000;
 }
 
 

@@ -1,0 +1,539 @@
+/*
+	@name video_pembelajaran
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1200px; width: 1200px; height: 1439px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__video_pembelajaran {
+	top: 0px;
+	left: 0px;
+	width: 1200px;
+	height: 1439px;
+	background:rgba(255,255,255,1);
+}
+
+a{
+color:#22b3a4;
+text-decoration : none;
+}
+
+#allura_staying_home {
+	top: 150px;
+	left: 612px;
+	width: 554px;
+	height: 272px;
+}
+
+
+#home {
+	top: 28px;
+	left: 156px;
+	width: 63.5px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#layanan_kami {
+	top: 28px;
+	left: 239px;
+	width: 136px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#daftar_negara_potensial {
+	top: 28px;
+	left: 391px;
+	width: 195px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#about {
+	top: 28px;
+	left: 618px;
+	width: 73px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#logo_1 {
+	top: 14px;
+	left: 76px;
+	width: 39px;
+	height: 48px;
+}
+
+
+#rectangle {
+	top: 371px;
+	left: 221px;
+	width: 337px;
+	height: 55px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 3px solid #264653;
+	-ms-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 0px 0px 1px rgba(0,0,0,0.5);
+	background:rgba(38,70,83,1);
+}
+
+
+#rectangle_ek1 {
+	top: 1044px;
+	left: 690px;
+	width: 6px;
+	height: 6px;
+	background:rgba(255,255,255,1);
+}
+
+
+#mulai_sekarang {
+	top: 387px;
+	left: 260px;
+	width: 266px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	line-height: 17px;
+	padding-top: 7px;
+	margin-top: -7px;
+	letter-spacing: 1.5px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_ek2 {
+	top: 104px;
+	left: 635px;
+	width: 112px;
+	height: 58px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_ek3 {
+	top: 104px;
+	left: 747px;
+	width: 146px;
+	height: 58px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_ek4 {
+	top: 104px;
+	left: 893px;
+	width: 133px;
+	height: 58px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_ek5 {
+	top: 104px;
+	left: 1026px;
+	width: 125px;
+	height: 58px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_ek6 {
+	top: 458px;
+	left: -45px;
+	width: 1249px;
+	height: 39px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(236,238,239,1);
+}
+
+
+#rectangle_ek7 {
+	top: 458px;
+	left: 426px;
+	width: 739px;
+	height: 39px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_ek8 {
+	top: 1025px;
+	left: 513px;
+	width: 269px;
+	height: 37px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(38,70,83,1);
+}
+
+
+#layanan_kami___video_pembelajaran {
+	top: 150px;
+	left: 221px;
+	width: 298px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#24AFA0;
+}
+
+
+#tutoring {
+	top: 123px;
+	left: 661px;
+	width: 81px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#021412;
+}
+
+
+#short_course {
+	top: 123px;
+	left: 773px;
+	width: 115px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#021412;
+}
+
+
+#full_course {
+	top: 123px;
+	left: 919px;
+	width: 102px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#021412;
+}
+
+
+#workshop {
+	top: 123px;
+	left: 1052px;
+	width: 94px;
+	height: 27px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	color:#021412;
+}
+
+
+#edukasi_program_studi {
+	top: 177px;
+	left: 219px;
+	width: 406px;
+	height: 127px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 40px;
+	text-align: left;
+	line-height: 49.5px;
+	letter-spacing: 1.3999999761581px;
+	color:#264653;
+}
+
+
+#layanan_online_course_berdasarkan_program_studi {
+	top: 282px;
+	left: 221px;
+	width: 341px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 24px;
+	color:#54595F;
+}
+
+
+#kelas_lengkap {
+	top: 327px;
+	left: 221px;
+	width: 119.5px;
+	height: 34.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 24px;
+	margin-top: -3px;
+	height: 49.5px;
+	color:#54595F;
+}
+
+
+#release_date__newest_first_ {
+	top: 525px;
+	left: 967px;
+	width: 208.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 15px;
+	text-align: left;
+	line-height: 22.39999961853px;
+	color:#7A7A7A;
+}
+
+
+#in {
+	top: 944px;
+	left: 451px;
+	width: 34px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 22.39999961853px;
+	margin-top: -2.7999998728434px;
+	height: 47px;
+	color:#757C8E;
+}
+
+
+#fullcourse {
+	top: 944px;
+	left: 469px;
+	width: 86px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 22.39999961853px;
+	margin-top: -2.7999998728434px;
+	height: 47px;
+	color:#757C8E;
+}
+
+
+#in_ek1 {
+	top: 938px;
+	left: 729px;
+	width: 34px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 22.39999961853px;
+	margin-top: -2.7999998728434px;
+	height: 47px;
+	color:#757C8E;
+}
+
+
+#program_studi {
+	top: 938px;
+	left: 742px;
+	width: 110px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 22.39999961853px;
+	margin-top: -2.7999998728434px;
+	height: 47px;
+	color:#757C8E;
+}
+
+
+#in_ek2 {
+	top: 938px;
+	left: 1028px;
+	width: 34px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 22.39999961853px;
+	margin-top: -2.7999998728434px;
+	height: 47px;
+	color:#757C8E;
+}
+
+
+#program_studi_ek1 {
+	top: 938px;
+	left: 1034px;
+	width: 110px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	line-height: 22.39999961853px;
+	margin-top: -2.7999998728434px;
+	height: 47px;
+	color:#757C8E;
+}
+
+
+#lihat_selengkapnya {
+	top: 1029px;
+	left: 531px;
+	width: 242px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 23px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_ek9 {
+	top: 18px;
+	left: 915px;
+	width: 90px;
+	height: 40px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(38,70,83,1);
+}
+
+
+#rectangle_ek10 {
+	top: 18px;
+	left: 1025px;
+	width: 90px;
+	height: 37px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 2px solid #264653;
+	background:rgba(253,253,253,1);
+}
+
+
+#sign_in {
+	top: 28px;
+	left: 935px;
+	width: 71px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#FFFFFF;
+}
+
+
+#sign_up {
+	top: 28px;
+	left: 1047px;
+	width: 77px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
+	color:#000000;
+}
+
+
+#group_17 {
+	top: 18px;
+	left: 852px;
+	width: 42.5px;
+	height: 35.5px;
+}
+
+
+#group_19_1 {
+	top: 584px;
+	left: 47px;
+	width: 1106px;
+	height: 399px;
+}
+
+
+#group_20_1 {
+	top: 1201px;
+	left: 290px;
+	width: 715px;
+	height: 182px;
+}
+
+
+
+/* Add your custom CSS here */
