@@ -1,0 +1,3 @@
+# eksporinaja
+## Website Description
+eksporinaja.id is a digital-based business education and consultancy platform focused on export and import, aimed at enhancing Indonesia's export commodities and encouraging entrepreneurs, both beginners and intermediates, to expand their businesses. This platform is accessible to all segments of society, particularly students, novice entrepreneurs, owners of SMEs, and working-age individuals. Eksporinaja.id features export-import learning guidance from the basics, a database of potential export-import commodities, and consultancy services guided by professionals in their respective fields.
